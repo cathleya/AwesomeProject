@@ -9,7 +9,9 @@ AwesomeProject is a demo designed for simply domonstrating how we develop ios ap
 #Display Type Visual Examples
 
 
-### Linear
+### Featured
 ![Featured](http://www.appcoda.com/wp-content/uploads/2015/04/pic03.png)
-### Rotary
-![Search books](http://www.appcoda.com/wp-content/uploads/2015/04/pic13.png)
+### BookDetail
+![BookDetail](http://www.appcoda.com/wp-content/uploads/2015/04/pic12.png)
+### SearchBooks
+![SearchBooks](http://www.appcoda.com/wp-content/uploads/2015/04/pic13.png)
