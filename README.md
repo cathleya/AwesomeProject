@@ -1,6 +1,5 @@
 # AwesomeProject
 ----
-
     AwesomeProject is a demo designed for simply domonstrating how we develop ios application in react-active framework,original address is:http://www.appcoda.com/react-native-introduction/
 
 #how to run this project
@@ -13,6 +12,6 @@
 ----
 
 ### Linear
-![Linear](http://g.recordit.co/xt86iK3A7f.gif)
+![Featured](http://www.appcoda.com/wp-content/uploads/2015/04/pic03.png)
 ### Rotary
-![Rotary](http://g.recordit.co/Z7DsqjjBY3.gif)
+![Search books](http://www.appcoda.com/wp-content/uploads/2015/04/pic13.png)
