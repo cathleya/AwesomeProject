@@ -1,4 +1,5 @@
 # AwesomeProject
+----
 
     AwesomeProject is a demo designed for simply domonstrating how we develop ios application in react-active framework,original address is:http://www.appcoda.com/react-native-introduction/
 
